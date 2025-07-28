@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+matplotlib
+torch
+sentence-transformers
+transformers
+datasets
+evaluate
+seaborn
+openpyxl
+imbalanced-learn
+optuna
